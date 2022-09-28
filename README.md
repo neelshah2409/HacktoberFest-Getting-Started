@@ -1,4 +1,4 @@
-# HacktoberFest-Checklist
+# HacktoberFest-Getting-Started
 This repository consists of steps to participate in Hacktoberfest, materials to learn git and github, list of projects participating in Hacktoberfest.
 
 **The registrations for Hacktoberfest starts from 26th of September.**
